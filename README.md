@@ -15,10 +15,10 @@
 ### Установка
 Вариант 1. 
 ```
-Создать новый проект C# в вашей Visual Studio
+Создать новый проект C# в Visual Studio
 ```
 ```
-Скопировать и вставьте код из файла Program.cs в файл Program.cs.
+Скопировать и вставить код из файла Program.cs в файл Program.cs.
 ```
 ```
 Запустить проект, чтобы увидеть результат.
@@ -37,7 +37,7 @@ git clone https://github.com/sedypana/c-_refactoring.git
 Запустить файл ConsoleApp2.sln
 ```
 ```
-Запустить проект
+Нажать на кнопку "Пуск"
 ```
 ![window](./image.png)
 
