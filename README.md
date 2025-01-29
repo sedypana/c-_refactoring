@@ -11,7 +11,7 @@
 Что нужно для установки программного обеспечения и как его установить
 
 ```
-Установить [Microsoft VS 2022](https://visualstudio.microsoft.com/ru/vs/community/) с компонентами c#
+Установить <a href = "https://visualstudio.microsoft.com/ru/vs/community/">Microsoft VS 2022</a> с компонентами c#
 ```
 
 ### Установка
@@ -22,7 +22,7 @@
 <br>
 
 ```
-Скопируйте и вставьте код в файл Program.cs.
+Скопируйте и вставьте код из файла Program.cs в файл Program.cs.
 ```
 <br>
 
