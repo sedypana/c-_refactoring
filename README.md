@@ -17,28 +17,30 @@
 ```
 Создайте новый проект C# в вашей Visual Studio
 ```
-<br>
-
 ```
 Скопируйте и вставьте код из файла Program.cs в файл Program.cs.
 ```
-<br>
-
 ```
 Запустите проект, чтобы увидеть результат.
 ```
 
-
-И повтори
-
+Вариант 2.
+1. Склонировать репозиторий
 ```
-Пока не закончил
+git init
 ```
-
-Завершите пример получением некоторых данных о системе или использования их для небольшой демонстрации
+```
+git clone https://github.com/sedypana/c-_refactoring.git
+```
+Запустить проект
+```
+Запустить файл ConsoleApp2.sln
+```
+![window](./image.png)
 
 ## Авторы
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+<h3 align="center">
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+![](https://img.shields.io/badge/sedypana-marker?style=for-the-badge&logo=3258&logoSize=50&label=made%20by)
+<h3>
